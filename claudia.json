@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "hash-executor",
+    "name": "hash",
+    "region": "ap-south-1"
+  },
+  "api": {
+    "id": "70zu9u1050"
+  }
+}

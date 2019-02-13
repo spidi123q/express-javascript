@@ -1,0 +1,16 @@
+{
+    "Changes": [
+      {
+        "Action": "CREATE",
+        "ResourceRecordSet": {
+          "Name": "rest.hashwd.com",
+          "Type": "A",
+          "AliasTarget": {
+            "DNSName": "d-ouga0pehd6.execute-api.ap-south-1.amazonaws.com",
+            "HostedZoneId": "Z3VO1THU9YC4UR",
+            "EvaluateTargetHealth": false
+          }
+        }
+      }
+    ]
+  }
